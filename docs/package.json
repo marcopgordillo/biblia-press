@@ -1,0 +1,19 @@
+{
+  "name": "biblia-press",
+  "version": "0.0.1",
+  "description": "Biblia Católica Latinoamericana",
+  "main": "index.js",
+  "authors": {
+    "name": "Marco Gordillo",
+    "email": "marcopgordillo@gmail.com"
+  },
+  "repository": "https://github.com/marcopgordillo/biblia-press/biblia-press",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
