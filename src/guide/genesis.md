@@ -1,3 +1,6 @@
+---
+sidebarDepth: 2
+---
 # Génesis
 
 El Génesis es el libro de los orígenes, pues laten en él algunos de los grandes interrogantes de la humanidad acerca del cosmos, de la vida y de la muerte, del bien y del mal... Sus narraciones hablan de 3 origenes: del mundo de la humanidad (Adán y Evam Noé...) y de Israel (patriarcas).
