@@ -3,13 +3,17 @@
  *
  * ref：https://v1.vuepress.vuejs.org/config/#index-styl
  */
+p
+  text-indent 2rem
 
 .home .hero img
   max-width 450px!important
 
-.subhead::first-letter
-  font-size 400%
-  float left
-  font-family Georgia
-  line-height .8
-  padding-right 8px
+.subhead
+  text-indent 0
+  &::first-letter
+    font-size 400%
+    float left
+    font-family Georgia
+    line-height .6
+    padding-right 0.5rem
