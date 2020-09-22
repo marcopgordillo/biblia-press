@@ -1,7 +1,7 @@
 {
   "name": "biblia-press",
   "version": "0.0.1",
-  "description": "Biblia Católica Latinoamericana",
+  "description": "Biblia Católica Latinoamericana en línea",
   "main": "index.js",
   "authors": {
     "name": "Marco Gordillo",
