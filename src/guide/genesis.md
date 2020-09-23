@@ -20,6 +20,42 @@ El Dios del Génesis es, en primer lugar, el Dios creador. Pero también lo es d
 
 ^9^ Dijo Dios: «Júntense las aguas de debajo del cielo en un solo sitio, y que aparezca lo seco». Y así fue. ^10^ Llamó Dios a lo seco «tierra», y a la masa de las aguas llamó «mar». Y vió Dios que era bueno.
 
+^11^ Dijo Dios: «Cúbrase la tierra de verdor, de hierva verde que engendre semilla, y de flores frutales que den fruto según su especie y que lleven semilla sobre la tierra». Y así fue. ^12^ La tierra brotó hierva verde que engendraba semilla según su especie, y árboles que daban fruto y llevaban semilla según su especie. Y vio Dios que era bueno. ^13^ Pasó una tarde, pasó una mañana: el día tercero.
 
+^14^ Dijo Dios: «Existan lumbreras en el firmamento del cielo, para separar el día de la noche, para señalar las fiestas, los días y los años, ^15^ y sirvan de lumbreras en el firmamento del cielo, para iluminar sobre la tierra». Y así fue. ^16^ E hizo Dios dos lumbreras grandes: la lumbrera mayor para regir el día, la lumbrera menor para regir la noche; y las estrellas. ^17^ Dios las puso en el firmamento del cielo para iluminar la tierra, ^18^ para regir el día y la nochey para separar la luz de la tiniebla. Y vio Dios que era bueno. ^19^ Pasó una tarde, pasó una mañana: el día cuarto.
 
-2. dddss
+^20^ Dijo Dios: «Bullan las aguas de seres vivientes, y vuelen los pájaros sobre la tierra frente al firmamento del cielo». ^21^ Y creó Dios los grandes cetáceos y los seres vivientes que se deslizan y que las aguas fueron produciendo según sus especies, y las aves aladas según sus especies. Y vio Dios que era bueno. ^22^ Luego los bendijo Dios, diciendo: «Sed fecundos y multiplicaos, llenad las aguas del mar; y que las aguas se multipliquen en la tierra». ^23^ Pasó una tarde, pasó una mañana: el día quinto.
+
+^24^ Dijo Dios: «Produzca la tierra seres vivientes según sus especies: ganados, reptiles y fieras según sus especies». Y así fue. ^25^ E hizo Dios las fieras según sus especies, los ganados según sus especies y los reptiles según sus especies. Y vio Dios que era bueno.
+
+^26^ Dijo Dios: «Hagamos al hombre a nuestra imagen y semejanza; que dominie los peces del mar, las aves del cielo, los ganados y los reptiles de la tierra». ^27^ Y creó Dios al hombre a su imagen, a imagen de Dios lo creó, varón y mujer los creó.
+
+^28^ Dios los bendijo; y les dijo Dios: «Sed fecundos y multiplicaos, llenad la tierra y sometedla; dominad los peces del mar, las aves del cielo y todos los animales que se mueven sobre la tierra».
+
+^29^ Y dijo Dios: «Mirad, os entrego todas las hiervas que engendran semilla sobre la superficie de la tierra y todos los árboles frutales que engendran semilla: os servirán de alimento. ^30^ Y la hierva verde servirá de alimento a todas las fieras de la tierra, a todas las aves del cielo, a todos los reptiles de la tierra y a todo ser que respira». Y así fue. ^31^ Vio Dios todo lo que había hecho, y era muy bueno. Pasó una tarde, pasó una mañana: el día sexto.
+
+2 ^1^ Así quedaron concluídos el cielo, la tierra y todo el universo. ^2^ Y habiendo concluído el día séptimo la obra que había hecho, descasó el día séptimo de toda la obra que había hecho. ^3^ Y bendijo Dios el día séptimo y lo consagró, porque en él descansó de toda la obra que había hecho cuando creó.
+{.subhead}
+
+^4^ Esta es la historia del cielo y de la tierra cuando fueron creados.
+
+### Nuevo relato de la creación
+
+El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales en la tierra, ni brotaba hierva en el campo, porque el Señor Dios no había enviado lluvia sobre la tierra, ni había hombre que cultivase el suelo; ^6^ pero un manantial salía de la tierra y regaba toda la superficie del suelo. ^7^ Entonces el Señor Dios modeló al hombre del polvo del suelo e insufló en su nariz aliento de vida; y el hombre se convirtió en ser vivo.
+
+#### *El paraiso*
+
+^8^ Luego el Señor Dios plantó un jardín en Edén, hacia Oriente, y colocó en él al hombre que había modelado. ^9^ El Señor Dios hizo brotar del suelo toda clase de árboles hermosos para la vista y buenos para comer; además, el árbol de la vida en la mitad del jardín, y el árbol del conocimiento del bien y del mal.
+
+^10^ En Edén nacía un río que regaba el jardín, y allí se dividía en cuatro brazos: ^11^ el primero se llama Pisón; rodea toda la tierra de Javilá, donde hay oro. ^12^ El oro de este país es bueno; allí hay también bedelio y lapislázuli. ^13^ El segundo río se llama Guijón; rodea toda la tierra de Cus. ^14^ El tercero se llama Tigris y corre al este de Asiria. El cuarto es el Éufrates.
+
+^15^ El Señor Dios tomó al hombre y lo colocó en el jardín de Edén, para que lo guardara y lo cultivara. ^16^ El Señor Dios dio este mandato al hombre: «Puedes comer de todos los árboles del jardín, ^17^ pero del árbol del conocimiento del bien y el mal no comerás, porque el día en que comas de él, tendrás que morir».
+
+^18^ El Señor Dios se dijo: «No es bueno que hombre esté solo; voy a hacerle alguien como él, que le ayude». ^19^ Entonces el Señor modeló de la tierra todas las bestias del campo y todos los pájaros del cielo, y se los presentó a Adán, para ver que nombre les ponía. Y cada ser vivo llevaría el nombre que Adán le pusiera. ^20^ Así Adán puso nombre a todos los ganados, a los pájaros del cielo y a las bestias del campo; pero no encontró ninguno como él, que le ayudase.
+
+^21^ Entonces el Señor Dios hizo caer un letargo sobre Adán, que se durmió; le sacó una costilla, y le cerro el sitio con carne. ^22^ Y el Señor formó, de la costilla que había sacado de Adán, una mujer, y se la presentó a Adán. ^23^ Adán dijo: «¡Esta si que es hueso de mis huesos y carne de mi carne! Su nombre será "mujer", porque ha salido del varón». ^24^ Por eso abandonará el varon a su padre y a su madre, y se unirá a su mujer y serán lod dos una sola carne. ^25^ Los dos estaban desnudos, Adán y su mujer, pero no sentían vergüenza uno del otro.
+
+#### *Caída y promesa de victoria*
+
+3 ^1^ La serpiente era más astuta que las demás bestias del campo que el Señor había hecho.
+{.subhead}
