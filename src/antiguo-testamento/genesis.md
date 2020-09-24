@@ -57,5 +57,50 @@ El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales
 
 #### *Caída y promesa de victoria*
 
-3 ^1^ La serpiente era más astuta que las demás bestias del campo que el Señor había hecho.
+3 ^1^ La serpiente era más astuta que las demás bestias del campo que el Señor había hecho. ^2^ Y dijo a la mujer: «¿Conque Dios os ha hecho que no comáis de ningún árbol del jardín?». ^3^ La mujer contestó a la serpiente: «Podemos comer los frutos de los árboles del jardín; pero del fruto del árbol que está en mitad del jardín nos ha dicho Dios: "No comáis de él ni lo toquéis, de lo contrario moriréis"». ^4^ La serpiente replicó a la mujer: «No, no moriréis; ^5^ es que Dios sabe que el día en que comáis de él, se os abrirán los ojos, y seréis como Dios en el conocimiento del bien y del mal».
 {.subhead}
+
+^6^ Entonces la mujer se dio cuenta de que el árbol era bueno de comer, atrayente a los ojos y deseable para lograr inteligencia; así que tomo de su fruto y comió. Luego se lo dió a su marido, que también comió. ^7^ Se les abrieron los ojos a los dos y descubrieron que estaban desnudos; y entrelazaron hojas de higuera y se las ciñeron. ^8^ Cuando oyeron la voz del Señor Dios que se paseaba por el jardín a la hora de la brisa, Adán y su mujer se escondieron de la vista del Señor Dios entre los árboles del jardín.
+
+^9^ El Señor Dios llamó a Adán y le dijo: «¿Dónde estás?». ^10^ Él contestó: «Oí tu ruido en el jardín, me dio miedo, porque estaba desnudo y me escondí». ^11^ El Señor Dios le replicó: «¿Quién te informó de que estabas desnudo?, ¿es que has comido del árbol del que te prohibí comer?». ^12^ Adán respodió: «La mujer que me diste como compañera me ofreció del fruto y comí». ^13^ El Señor Dios dijo a la mujer: «¿Qué has hecho?». La mujer respondió: «La serpiente me sedujo y comí».
+
+^14^ El Señor Dios dijo a la serpiente: «Po haber hecho eso, maldita tú | entre todo el ganado y todas las fieras del campo; | te arrastraras sobre el vientre | y comerás polvo toda tu vida; | ^15^ pongo hostilidad entre tí y la mujer, | entre tu descendencia y su descendencia; | esta te aplastará la cabeza | cuando tú la hieras en el talón».
+
+^16^ A la mujer le dijo:<br>
+«Mucho te haré sufrir en tu preñez, | parirás hijos con dolor, | tendrás ansia de tu marido, | y él te dominará».
+
+^17^ A Adán le dijo:<br>
+«Por haber hecho caso a tu mujer | y haber comido del árbol que te prohibí, | maldito el suelo por tu culpa: | comerás de él con fatiga mientras vivas; | ^18^ brotará para tí cardos y espinas, | y comerás hierba del campo.
+
+^19^ Comerás el pan con sudor de tu frente, | hasta que vuelvas a la tierra, | porque de ella fuiste sacado; | pues eres polvo y al polvo volverás».
+
+^20^ Adán llamó a su mujer Eva, por ser la madre de todos los que viven. ^21^ El Señor Dios hizo túnicas de piel para Adán y su mujer, y los vistió. ^22^ Y el Señor Dios dijo: «He aquí que el hombre se ha hecho como uno de nosotros en el conocimiento del bien y del mal; no vaya ahora a alargar su mano y tome también del árbol de la vida, coma de él y viva para siempre».
+
+^23^ El Señor Dios lo expulsó del jardín del Edén, para que labrase el suelo de donde había sido tomado. ^24^ Echó al hombre, y a oriente del jardín de Edén colocó a los querubines y una espada llameante que brillaba, para cerrar el camino al árbol de la vida.
+
+### Caín y Abel
+
+4 ^1^ Adán conoció a Eva, su mujer, que concibió y dió a luz a Caín. Y ella dijo: «He adquirido un hombre con la ayuda del Señor». ^2^ Después dio a luz a Abel, su hermano.  Abel era pastor de ovejas, y Caín cultivaba el suelo.
+{.subhead}
+
+^3^ Pasado un tiempo, Caín ofreció al Señor dones del fruto del suelo; ^4^ también Abel ofreció las primicias y la grasa de sus ovejas. El Señor se fijó en Abel y en su ofrenda, ^5^ pero no se fijó en Caín ni en su ofrenda; Caín se enfureció y andaba abatido. ^6^ El Señor dijo a Caín: «¿Por qué te enfureces y andas abatido? ^7^ ¿No estarías animado si obraras bien?; pero, si no obras bien, el pecado acecha a la puerta y te codicia aunque tú podrás dominarlo».
+
+^8^ Caín dijo a su hermano Abel: «Vamos al campo». Y, cuando estaban en el campo, Caín atacó a su hermano Abel y lo mató.
+
+^9^ El Señor dijo a Caín: «¿Dónde está Abel tu hermano?». Respondió Caín: «No sé; ¿soy yo el guardián de mi hermano?». ^10^ El Señor le replicó: «¿Qué has hecho? Las sangre de tu hermano me está gritando desde el suelo. ^11^ Por eso te maldice ese suelo que ha abierto sus fauces para recibir de tus manos la sangre de tu hermano- ^12^ Cuando cultives el suelo, no volverá a darte sus productos. Andarás errante y perdido por la tierra». ^13^ Caín contestó al Señor: «Mi culpa es demasiado grande para soportarla. ^14^ Puesto que me expulsas hoy de este suelo, tendré que ocultarme de tí, andar errante y perdido por la tierra, y cualquiera que me encuentre me matará». ^15^ El Señor le dijo: «El que mate a Caín lo pagará siete veces». Y el Señor puso una señal a Caín para que, si lo alguien lo encontraba, no lo matase. ^16^ Caín salió de la presencia del Señor y habitó en Nod, al este de Edén.
+
+### Cainitas y setitas
+
+^17^ Caín conoció a su mujer; ella concibió y dio a luz a Henoc. Caín estaba edificando una ciudad y le puso el nombre de su hijo Henoc. ^18^ A Henoc le nació Irad, e Irad enjendró a Mejuyael; Mejuyael engendró a Metusael, y Metusael engendró a Lamec. ^19^ Lamec tomó dos mujeres: una se llamaba Ada y la otra Sila. ^20^ Ada dió a luz a Yabel, que fue el padre de los que habitan en tiendas con ganados. ^21^ Su hermano se llamaba Yubal, que fue el padre de los que tocan la cítara y la flauta. ^22^ Sila, a su vez, dio a luz a Tubalcaín, forjador de herramientas de cobre y hierro; la hermana de Tubalcaín era Naama.
+
+^23^ Lamec dijo a sus mujeres:<br>
+«Ada y Sila, escuchad mi voz; | mujeres de Lamec, prestad oído a mi palabra. | A un hombre he matado por herirme, | y a un joven por golpearme. | ^24^ Caín será vengado siete veces, | y Lamec setenta y siete».
+
+^25^ Adán conoció otra vez a su mujer, que dio a luz un hijo y lo llamó Set, pues dijo: «Dios me ha dado otro descendiente en lugar de Abel, asesinado por Caín». ^26^ A Set le nació también un hijo que se llamó Enós. Por entonces se comenzó a invocar el nombre del Señor.
+
+### Descendientes de Adán
+
+5 ^1^ Este es el libro de los descendientes de Adán. El día en que Dios creó al hombre, a imagen de Dios lo hizo. ^2^ Los creó varón y mujer, los bendijo y les puso el nombre de «Adán» el día en que los creó.
+{.subhead}
+
+^3^ Adán tenía ciento treinta años cuando engendró un hijo a imagen suya, a su semejanza, y lo llamó Set. ^4^ Después de haber engendrado a Set, vivió Adán ochocientos años y engendró hijos e hijas.

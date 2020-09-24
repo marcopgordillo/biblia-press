@@ -34,27 +34,33 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Antiguo Testamento',
+        link: '/antiguo-testamento/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Nuevo Testamento',
+        link: '/nuevo-testamento/'
       },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
     ],
     sidebar: {
-      '/guide/': [
+      '/antiguo-testamento/': [
         {
-          title: 'Guide',
+          title: 'Antiguo Testamento',
           collapsable: false,
           children: [
             '',
-            'using-vue',
             'genesis',
+            'exodo',
+          ]
+        }
+      ],
+      '/nuevo-testamento/': [
+        {
+          title: 'Nuevo Testamento',
+          collapsable: false,
+          children: [
+            '',
+            'mateo',
           ]
         }
       ],
