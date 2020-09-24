@@ -64,7 +64,7 @@ El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales
 
 ^9^ El Señor Dios llamó a Adán y le dijo: «¿Dónde estás?». ^10^ Él contestó: «Oí tu ruido en el jardín, me dio miedo, porque estaba desnudo y me escondí». ^11^ El Señor Dios le replicó: «¿Quién te informó de que estabas desnudo?, ¿es que has comido del árbol del que te prohibí comer?». ^12^ Adán respodió: «La mujer que me diste como compañera me ofreció del fruto y comí». ^13^ El Señor Dios dijo a la mujer: «¿Qué has hecho?». La mujer respondió: «La serpiente me sedujo y comí».
 
-^14^ El Señor Dios dijo a la serpiente: «Po haber hecho eso, maldita tú | entre todo el ganado y todas las fieras del campo; | te arrastraras sobre el vientre | y comerás polvo toda tu vida; | ^15^ pongo hostilidad entre tí y la mujer, | entre tu descendencia y su descendencia; | esta te aplastará la cabeza | cuando tú la hieras en el talón».
+^14^ El Señor Dios dijo a la serpiente: «Por haber hecho eso, maldita tú | entre todo el ganado y todas las fieras del campo; | te arrastraras sobre el vientre | y comerás polvo toda tu vida; | ^15^ pongo hostilidad entre tí y la mujer, | entre tu descendencia y su descendencia; | esta te aplastará la cabeza | cuando tú la hieras en el talón».
 
 ^16^ A la mujer le dijo:<br>
 «Mucho te haré sufrir en tu preñez, | parirás hijos con dolor, | tendrás ansia de tu marido, | y él te dominará».
