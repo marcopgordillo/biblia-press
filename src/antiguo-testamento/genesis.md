@@ -3,9 +3,9 @@ sidebarDepth: 2
 ---
 # Génesis
 
-El Génesis es el libro de los orígenes, pues laten en él algunos de los grandes interrogantes de la humanidad acerca del cosmos, de la vida y de la muerte, del bien y del mal... Sus narraciones hablan de tres origenes: del mundo, de la humanidad (Adán y Eva Noé...) y de Israel (patriarcas).
+El Génesis es el libro de los orígenes, pues laten en él algunos de los grandes interrogantes de la humanidad acerca del cosmos, de la vida y de la muerte, del bien y del mal... Sus narraciones hablan de tres orígenes: del mundo, de la humanidad (Adán y Eva Noé...) y de Israel (patriarcas).
 
-El Dios del Génesis es, en primer lugar, el Dios creador. Pero también lo es de la bendición y de la promesa. E igualmente de la alianza; que primero hará con Noé (9, 8-17), y después con Abrahán. Cuando la maldad del hombre crece sobre la tierra (de Adán a Noé). Dios decide deshacerse de la humanidad. Pero Noé, el justo obtiene su favor (6, 5-8). Y de él surge una humanidad nueva, en la que se entroncan los antepasados de Israel. A través de Abrahán y sus descendientes, la promesa y la bendición alcanzarán a todas las familias de la tierra (12, 3), lo cual halla su pleno cumpliemiento con la efusión del Espíritu Santo el día de Pentecontés (Hch 2).
+El Dios del Génesis es, en primer lugar, el Dios creador. Pero también lo es de la bendición y de la promesa. E igualmente de la alianza; que primero hará con Noé (9, 8-17), y después con Abrahán. Cuando la maldad del hombre crece sobre la tierra (de Adán a Noé). Dios decide deshacerse de la humanidad. Pero Noé, el justo obtiene su favor (6, 5-8). Y de él surge una humanidad nueva, en la que se entroncan los antepasados de Israel. A través de Abrahán y sus descendientes, la promesa y la bendición alcanzarán a todas las familias de la tierra (12, 3), lo cual halla su pleno cumplimiento con la efusión del Espíritu Santo el día de Pentecontés (Hch 2).
 
 ## Orígenes del mundo y de la humanidad (1-11)
 
@@ -22,7 +22,7 @@ El Dios del Génesis es, en primer lugar, el Dios creador. Pero también lo es d
 
 ^11^ Dijo Dios: «Cúbrase la tierra de verdor, de hierva verde que engendre semilla, y de flores frutales que den fruto según su especie y que lleven semilla sobre la tierra». Y así fue. ^12^ La tierra brotó hierva verde que engendraba semilla según su especie, y árboles que daban fruto y llevaban semilla según su especie. Y vio Dios que era bueno. ^13^ Pasó una tarde, pasó una mañana: el día tercero.
 
-^14^ Dijo Dios: «Existan lumbreras en el firmamento del cielo, para separar el día de la noche, para señalar las fiestas, los días y los años, ^15^ y sirvan de lumbreras en el firmamento del cielo, para iluminar sobre la tierra». Y así fue. ^16^ E hizo Dios dos lumbreras grandes: la lumbrera mayor para regir el día, la lumbrera menor para regir la noche; y las estrellas. ^17^ Dios las puso en el firmamento del cielo para iluminar la tierra, ^18^ para regir el día y la nochey para separar la luz de la tiniebla. Y vio Dios que era bueno. ^19^ Pasó una tarde, pasó una mañana: el día cuarto.
+^14^ Dijo Dios: «Existan lumbreras en el firmamento del cielo, para separar el día de la noche, para señalar las fiestas, los días y los años, ^15^ y sirvan de lumbreras en el firmamento del cielo, para iluminar sobre la tierra». Y así fue. ^16^ E hizo Dios dos lumbreras grandes: la lumbrera mayor para regir el día, la lumbrera menor para regir la noche; y las estrellas. ^17^ Dios las puso en el firmamento del cielo para iluminar la tierra, ^18^ para regir el día y la noche y para separar la luz de la tiniebla. Y vio Dios que era bueno. ^19^ Pasó una tarde, pasó una mañana: el día cuarto.
 
 ^20^ Dijo Dios: «Bullan las aguas de seres vivientes, y vuelen los pájaros sobre la tierra frente al firmamento del cielo». ^21^ Y creó Dios los grandes cetáceos y los seres vivientes que se deslizan y que las aguas fueron produciendo según sus especies, y las aves aladas según sus especies. Y vio Dios que era bueno. ^22^ Luego los bendijo Dios, diciendo: «Sed fecundos y multiplicaos, llenad las aguas del mar; y que las aguas se multipliquen en la tierra». ^23^ Pasó una tarde, pasó una mañana: el día quinto.
 
@@ -103,4 +103,57 @@ El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales
 5 ^1^ Este es el libro de los descendientes de Adán. El día en que Dios creó al hombre, a imagen de Dios lo hizo. ^2^ Los creó varón y mujer, los bendijo y les puso el nombre de «Adán» el día en que los creó.
 {.subhead}
 
-^3^ Adán tenía ciento treinta años cuando engendró un hijo a imagen suya, a su semejanza, y lo llamó Set. ^4^ Después de haber engendrado a Set, vivió Adán ochocientos años y engendró hijos e hijas.
+^3^ Adán tenía ciento treinta años cuando engendró un hijo a imagen suya, a su semejanza, y lo llamó Set. ^4^ Después de haber engendrado a Set, vivió Adán ochocientos años y engendró hijos e hijas. ^5^ Adán vivió un total de novecientos treinta años.
+
+^6^ Set tenía ciento cinco años cuando engendró a Enós. ^7^ Después de haber engendrado a Enós, vivió Set ochocientos siete años y engendró hijos e hijas. ^8^ Set vivió un total de novecientos doce años.
+
+^9^ Enós tenía noventa años cuando engendró a Quenán. ^10^ Después de haber engendrado a Quenán, vivió Enós ochocientos quince años y engendró hijos e hijas. ^11^ Enós vivó un total de novecientos cinco años.
+
+^12^ Quenán tenía setenta años cuando engendró a Malalel. ^13^ Después de haber engendrado a Malalel, vivió Quenán ochocientos cuarenta años y engendró hijos e hijas. ^14^ Quenán vivió un total de novecientos diez años.
+
+^15^ Malalel tenía sesenta y cinco años cuando engendró a Yared. ^16^ Después de haber engendrado a Yared, vivió Malalel ochocientos treinta años y engendró hijos e hijas. ^17^ Malalel vivió un total de ochocientos noventa y cinco años.
+
+^18^ Yared tenía ciento sesenta y dos años cuando engendró a Henoc. ^19^ Después de haber engendrado a Henoc, vivió Yared  ochocientos años y engendró hijos e hijas. ^20^ Yared vivió un total de novecientos sesenta y dos años.
+
+^21^ Henoc tenía sesenta y cinco años cuando engendró a Matusalén. ^22^ Después de haber engendrado a Matusalén, siguió  Henoc los caminos de Dios durante trecientos años y engendró hijos e hijas. ^23^ Henoc vivió trescientos sesenta y cinco años. ^24^ Henoc siguió los caminos de Dios y después desapareció, porque Dios se lo llevó.
+
+^25^ Matusalén tenía ciento ochenta y siete años cuando engendró a Lamec. ^26^ Después de haber engendrado a Lamec, vivió Matusalén setecientos ochenta y dos años y engendró hijos e hijas. ^27^ Matusalén vivió un total de novecientos sesenta y nueve años.
+
+^28^ Lamec tenía ciento ochenta y dos años cuando engendró a un hijo, ^29^ a quién llamó Noé, pues dijo: «Este nos aliviará de nuestro trabajo y del cansancio de nuestras manos en el suelo que el Señor maldijo». ^30^ Después de haber engendrado a Noé, vivió Lamec quinientos noventa y cinco años y engendró hijos e hijas. ^31^ Lamec vivió un total de setecientos setenta y siete años.
+
+^32^ Noé tenía quinientos años cuando engendró a Sem, Cam y Jafet.
+
+### Corrupción de la humanidad
+
+6 ^1^ Cuando los hombres comenzaron  a multiplicarse sobre la superficie del suelo y engendraron hijas, ^2^ los hijos de Dios vieron que las hijas de los hombres eran bellas y se escogieron mujeres entre ellas. ^3^ Dijo entonces el Señor: «Mi espíritu no durará por siempre en el hombre porque es carne; solo vivirá ciento veinte años».
+{.subhead}
+
+^4^ Por aquel tiempo había gigantes en la tierra; e incluso después, cuando los hijos de Dios se unieron a las hijas de los hombres y engendraron hijos. Estos fueron los héroes de antaño, los hombres de renombre.
+
+^5^ Al ver el Señor que la maldad del hombre crecía sobre la tierra y que todos los pensamientos de su corazón tienden siempre y únicamente al mal, ^6^ el Señor se arrepintió de haber creado al hombre en la tierra y le pesó de corazón. ^7^ Dijo, pues, el Señor: «Vor a borrar de la superficie de la tierra al hombre que he hecho, junto con los cuadrúpedos, reptiles y aves del cielo, pues me pesa haberlos hecho». ^8^ Pero Noé obtuvo el favor del Señor.
+
+### Historia de Noé
+
+^9^ Esta es la historia de Noé. Noé era un hombre justo e íntegro entre sus contemporáneos. Noé siguió los caminos de Dios ^10^ y engendró tres hijos: Sem, Cam y Jafet.
+
+^11^ La tierra estaba corrompida ante Dios y llena de violencia. ^12^ Dios vió la tierra y, en efecto, estaba corrompida, pues todas las criaturas de la tierra se habían corrompido en su proceder.
+
+#### *Preparativos para el diluvio*
+
+^13^ Dios dijo a Noé: «Por lo que a mí respecta, ha llegado el fin de toda criatura, pues por su culpa la tierra está llena de violencia; así que he pensado exterminarlos junto con la tierra. ^14^ Fabrícate un arca de madera de ciprés. Haz compartimentos en el arca, y calafatéala por dentro y por fuera. ^15^ La fabricarás así: medirá ciento cincuenta metros de larga, veinticinco de ancha y quince de alta. ^16^ Haz una claraboya a medio metro del remate, pon una puerta al costado del arca y haz una cubierta inferior, otra intermedia y otra superior.
+
+^17^ Yo voy a enviar el diluvio a la tierra para exterminar toda criatura viviente bajo el cielo; todo cuanto existe en la tierra perecerá. ^18^ Pero yo estableceré mi alianza contigo, y entrarás en el arca con tu mujer, tus hijos y sus mujeres. ^19^ Meterás también en el arca una pareja de cada criatura viviente, macho y hembra, para que conserve la vida contigo. ^20^ De cada especie de aves, de ganados y de reptiles en la tierra, entrará una pareja contigo para conservar la vida. ^21^ Recoge toda clase de alimentos y almacénalos para que os sirva de sustento a ti y a ellos».
+
+^22^ Noé hizo todo lo que le mandó Dios.
+
+7 ^1^ El Señor dijo a Noé: «Entra en el arca con toda tu familia, pues tú eres el único justo que he encontrado en tú generación. ^2^ De cada animal puro toma siete parejas, macho y hembra; de los no puros, una pareja, macho y hembra; ^3^ y lo mismo de los pájaros, siete parejas macho y hembra, para que conserven la especie en la tierra. ^4^ Dentro de siete días haré llover sobre la tierra durante cuarenta días con sus noches, y borraré de la superficie del suelo a todos los vivientes que he hecho».
+
+^5^ Noé hizo todo lo que le mandó el Señor.
+
+#### *El diluvio*
+
+^6^ Tenía Noé seiscientos años cuando vino el diluvio a la tierra. ^7^ Noé entró en el arca con sus hijos, su mujer y sus nueras, para librarse de las aguas del diluvio. ^8^ De los animales puros e impuros, de las aves y de todos los reptiles de la tierra, ^9^ entraron con Noé en el arca de dos en dos, macho y hembra, como Dios había mandado a Noé. ^10^ Pasados siete días, las aguas del diluvio cubrieron la tierra.
+
+^11^ En el año seiscientos de la vida de Noé, el día diecisiete del segundo mes, reventaron las fuentes del gran abismo y se abrieron las compuertas del cielo, ^12^ y estuvo lloviendo sobre la tierra cuarenta días y cuarenta noches. ^13^ Aquel mismo día entró Noé en el arca con sus hijos, Sem, Cam y Jafet, su mujer y sus tres nueras; ^14^ y con ellos toda clase de fieras, de ganados, de reptiles, que se arrastran por la tierra, y de aves (pájaros y seres alados), según sus especies. ^15^ Entraron con Noé en el arca parejas de todas las criaturas con aliento vital; ^16^ de todas las criaturas entraron macho y hembra, como se lo había mandado Dios. Y tras él cerro el Señor la puerta.
+
+^17^ El diluvio duró cuarenta días sobre la tierra; el agua creció y levantó el arca, que se alzó por encima de la tierra. ^18^ El agua se hinchaba y crecía mucho sobre la tierra y el arca flotaba sobre la superficie del agua. ^19^ El agua se hinchaba más y más sobre la tierra, hasta cubrir las montañas más altas bajo el cielo; ^20^ unos siete metros por encima subió el agua, cubriendo las montañas. ^21^ Perecieron todas las criaturas que se movían en la tierra: aves, ganados, fieras y cuanto bullía sobre la tierra; y todos los hombres. ^22^ Todo lo que exhalaba aliento de vida, todo cuanto existía en la tierra firme, murió. ^23^ Así fueron exterminados todos los seres de la superficie del suelo, desde los hombres hasta los ganados, los reptiles y las aves del cielo; todos fueron exterminados de la tierra. Solo quedó Noé y los que estaban con él en el arca. ^24^ Las aguas llenaron la tierra durante ciento cincuenta días.
