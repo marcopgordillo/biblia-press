@@ -11,7 +11,7 @@ El Dios del Génesis es, en primer lugar, el Dios creador. Pero también lo es d
 
 ### Creación del cielo y de la tierra
 
-1 ^1^ Al principio creó Dios el cielo y la tierra. ^2^ La tierra estaba informe y vacía; la tiniebla cubría la superficie del abismo, mientras el espíritu de Dios se cernía sobre la faz de las aguas.
+<span class="chapter">1</span> ^1^ Al principio creó Dios el cielo y la tierra. ^2^ La tierra estaba informe y vacía; la tiniebla cubría la superficie del abismo, mientras el espíritu de Dios se cernía sobre la faz de las aguas.
 {.subhead}
 
 ^3^ Dijo Dios: «Exista la luz». Y la luz existió. ^4^ Vió Dios que la luz era buena. Y separó Dios la luz de la tiniebla. ^5^ Llamó Dios a la luz «día» y a la tiniebla llamó «noche». Pasó una tarde, pasó una mañana: el día primero.
@@ -34,7 +34,7 @@ El Dios del Génesis es, en primer lugar, el Dios creador. Pero también lo es d
 
 ^29^ Y dijo Dios: «Mirad, os entrego todas las hiervas que engendran semilla sobre la superficie de la tierra y todos los árboles frutales que engendran semilla: os servirán de alimento. ^30^ Y la hierva verde servirá de alimento a todas las fieras de la tierra, a todas las aves del cielo, a todos los reptiles de la tierra y a todo ser que respira». Y así fue. ^31^ Vio Dios todo lo que había hecho, y era muy bueno. Pasó una tarde, pasó una mañana: el día sexto.
 
-2 ^1^ Así quedaron concluídos el cielo, la tierra y todo el universo. ^2^ Y habiendo concluído el día séptimo la obra que había hecho, descasó el día séptimo de toda la obra que había hecho. ^3^ Y bendijo Dios el día séptimo y lo consagró, porque en él descansó de toda la obra que había hecho cuando creó.
+<span class="chapter">2</span> ^1^ Así quedaron concluídos el cielo, la tierra y todo el universo. ^2^ Y habiendo concluído el día séptimo la obra que había hecho, descasó el día séptimo de toda la obra que había hecho. ^3^ Y bendijo Dios el día séptimo y lo consagró, porque en él descansó de toda la obra que había hecho cuando creó.
 {.subhead}
 
 ^4^ Esta es la historia del cielo y de la tierra cuando fueron creados.
@@ -57,7 +57,7 @@ El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales
 
 #### *Caída y promesa de victoria*
 
-3 ^1^ La serpiente era más astuta que las demás bestias del campo que el Señor había hecho. ^2^ Y dijo a la mujer: «¿Conque Dios os ha hecho que no comáis de ningún árbol del jardín?». ^3^ La mujer contestó a la serpiente: «Podemos comer los frutos de los árboles del jardín; pero del fruto del árbol que está en mitad del jardín nos ha dicho Dios: "No comáis de él ni lo toquéis, de lo contrario moriréis"». ^4^ La serpiente replicó a la mujer: «No, no moriréis; ^5^ es que Dios sabe que el día en que comáis de él, se os abrirán los ojos, y seréis como Dios en el conocimiento del bien y del mal».
+<span class="chapter">3</span> ^1^ La serpiente era más astuta que las demás bestias del campo que el Señor había hecho. ^2^ Y dijo a la mujer: «¿Conque Dios os ha hecho que no comáis de ningún árbol del jardín?». ^3^ La mujer contestó a la serpiente: «Podemos comer los frutos de los árboles del jardín; pero del fruto del árbol que está en mitad del jardín nos ha dicho Dios: "No comáis de él ni lo toquéis, de lo contrario moriréis"». ^4^ La serpiente replicó a la mujer: «No, no moriréis; ^5^ es que Dios sabe que el día en que comáis de él, se os abrirán los ojos, y seréis como Dios en el conocimiento del bien y del mal».
 {.subhead}
 
 ^6^ Entonces la mujer se dio cuenta de que el árbol era bueno de comer, atrayente a los ojos y deseable para lograr inteligencia; así que tomo de su fruto y comió. Luego se lo dió a su marido, que también comió. ^7^ Se les abrieron los ojos a los dos y descubrieron que estaban desnudos; y entrelazaron hojas de higuera y se las ciñeron. ^8^ Cuando oyeron la voz del Señor Dios que se paseaba por el jardín a la hora de la brisa, Adán y su mujer se escondieron de la vista del Señor Dios entre los árboles del jardín.
@@ -80,7 +80,7 @@ El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales
 
 ### Caín y Abel
 
-4 ^1^ Adán conoció a Eva, su mujer, que concibió y dió a luz a Caín. Y ella dijo: «He adquirido un hombre con la ayuda del Señor». ^2^ Después dio a luz a Abel, su hermano.  Abel era pastor de ovejas, y Caín cultivaba el suelo.
+<span class="chapter">4</span> ^1^ Adán conoció a Eva, su mujer, que concibió y dió a luz a Caín. Y ella dijo: «He adquirido un hombre con la ayuda del Señor». ^2^ Después dio a luz a Abel, su hermano.  Abel era pastor de ovejas, y Caín cultivaba el suelo.
 {.subhead}
 
 ^3^ Pasado un tiempo, Caín ofreció al Señor dones del fruto del suelo; ^4^ también Abel ofreció las primicias y la grasa de sus ovejas. El Señor se fijó en Abel y en su ofrenda, ^5^ pero no se fijó en Caín ni en su ofrenda; Caín se enfureció y andaba abatido. ^6^ El Señor dijo a Caín: «¿Por qué te enfureces y andas abatido? ^7^ ¿No estarías animado si obraras bien?; pero, si no obras bien, el pecado acecha a la puerta y te codicia aunque tú podrás dominarlo».
@@ -100,7 +100,7 @@ El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales
 
 ### Descendientes de Adán
 
-5 ^1^ Este es el libro de los descendientes de Adán. El día en que Dios creó al hombre, a imagen de Dios lo hizo. ^2^ Los creó varón y mujer, los bendijo y les puso el nombre de «Adán» el día en que los creó.
+<span class="chapter">5</span> ^1^ Este es el libro de los descendientes de Adán. El día en que Dios creó al hombre, a imagen de Dios lo hizo. ^2^ Los creó varón y mujer, los bendijo y les puso el nombre de «Adán» el día en que los creó.
 {.subhead}
 
 ^3^ Adán tenía ciento treinta años cuando engendró un hijo a imagen suya, a su semejanza, y lo llamó Set. ^4^ Después de haber engendrado a Set, vivió Adán ochocientos años y engendró hijos e hijas. ^5^ Adán vivió un total de novecientos treinta años.
@@ -125,7 +125,7 @@ El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales
 
 ### Corrupción de la humanidad
 
-6 ^1^ Cuando los hombres comenzaron  a multiplicarse sobre la superficie del suelo y engendraron hijas, ^2^ los hijos de Dios vieron que las hijas de los hombres eran bellas y se escogieron mujeres entre ellas. ^3^ Dijo entonces el Señor: «Mi espíritu no durará por siempre en el hombre porque es carne; solo vivirá ciento veinte años».
+<span class="chapter">6</span> ^1^ Cuando los hombres comenzaron  a multiplicarse sobre la superficie del suelo y engendraron hijas, ^2^ los hijos de Dios vieron que las hijas de los hombres eran bellas y se escogieron mujeres entre ellas. ^3^ Dijo entonces el Señor: «Mi espíritu no durará por siempre en el hombre porque es carne; solo vivirá ciento veinte años».
 {.subhead}
 
 ^4^ Por aquel tiempo había gigantes en la tierra; e incluso después, cuando los hijos de Dios se unieron a las hijas de los hombres y engendraron hijos. Estos fueron los héroes de antaño, los hombres de renombre.
@@ -146,7 +146,7 @@ El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales
 
 ^22^ Noé hizo todo lo que le mandó Dios.
 
-7 ^1^ El Señor dijo a Noé: «Entra en el arca con toda tu familia, pues tú eres el único justo que he encontrado en tú generación. ^2^ De cada animal puro toma siete parejas, macho y hembra; de los no puros, una pareja, macho y hembra; ^3^ y lo mismo de los pájaros, siete parejas macho y hembra, para que conserven la especie en la tierra. ^4^ Dentro de siete días haré llover sobre la tierra durante cuarenta días con sus noches, y borraré de la superficie del suelo a todos los vivientes que he hecho».
+<span class="chapter">7</span> ^1^ El Señor dijo a Noé: «Entra en el arca con toda tu familia, pues tú eres el único justo que he encontrado en tú generación. ^2^ De cada animal puro toma siete parejas, macho y hembra; de los no puros, una pareja, macho y hembra; ^3^ y lo mismo de los pájaros, siete parejas macho y hembra, para que conserven la especie en la tierra. ^4^ Dentro de siete días haré llover sobre la tierra durante cuarenta días con sus noches, y borraré de la superficie del suelo a todos los vivientes que he hecho».
 
 ^5^ Noé hizo todo lo que le mandó el Señor.
 
@@ -157,3 +157,55 @@ El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales
 ^11^ En el año seiscientos de la vida de Noé, el día diecisiete del segundo mes, reventaron las fuentes del gran abismo y se abrieron las compuertas del cielo, ^12^ y estuvo lloviendo sobre la tierra cuarenta días y cuarenta noches. ^13^ Aquel mismo día entró Noé en el arca con sus hijos, Sem, Cam y Jafet, su mujer y sus tres nueras; ^14^ y con ellos toda clase de fieras, de ganados, de reptiles, que se arrastran por la tierra, y de aves (pájaros y seres alados), según sus especies. ^15^ Entraron con Noé en el arca parejas de todas las criaturas con aliento vital; ^16^ de todas las criaturas entraron macho y hembra, como se lo había mandado Dios. Y tras él cerro el Señor la puerta.
 
 ^17^ El diluvio duró cuarenta días sobre la tierra; el agua creció y levantó el arca, que se alzó por encima de la tierra. ^18^ El agua se hinchaba y crecía mucho sobre la tierra y el arca flotaba sobre la superficie del agua. ^19^ El agua se hinchaba más y más sobre la tierra, hasta cubrir las montañas más altas bajo el cielo; ^20^ unos siete metros por encima subió el agua, cubriendo las montañas. ^21^ Perecieron todas las criaturas que se movían en la tierra: aves, ganados, fieras y cuanto bullía sobre la tierra; y todos los hombres. ^22^ Todo lo que exhalaba aliento de vida, todo cuanto existía en la tierra firme, murió. ^23^ Así fueron exterminados todos los seres de la superficie del suelo, desde los hombres hasta los ganados, los reptiles y las aves del cielo; todos fueron exterminados de la tierra. Solo quedó Noé y los que estaban con él en el arca. ^24^ Las aguas llenaron la tierra durante ciento cincuenta días.
+
+#### *Fin del diluvio*
+
+<span class="chapter">8</span> ^1^ Entonces Dios se acordó de Noé, de todas las fieras y de todo el ganado que estaban con él en el arca; Dios hizo soplar el viento sobre la tierra y el agua comenzó a bajar. ^2^ Se cerraron los manantiales del abismo y las compuertas del cielo, y cesó la lluvia del cielo. ^3^ El agua se fue retirando poco a poco de la tierra y decreció, de modo que a los ciento cincuenta días, ^4^ el día diecisiete del més séptimo, el arca encalló sobre las montañas de Ararat. ^5^ El agua continuó disminuyendo hasta el mes décimo, y el día primero de ese mes asomaron los picos de las montañas.
+{.subhead}
+
+^6^ Pasados cuarenta días, Noé abrió la claraboya que había hecho en el arca ^7^ y soltó el cuervo, que estuvo saliendo y retornando hasta que se secó el agua de la tierra. ^8^ Después soltó la paloma, para ver si había menguado el agua sobre la superficie del suelo. ^9^ Pero la paloma no encontró donde posarse y volvió al arca, porque todavía había agua sobre la superficie de la tierra. El alargó su mano, la agarró y la metió consigo en el arca. ^10^ Esperó otros siete días y de nuevo soltó la paloma desde el arca. ^11^ Al atardecer, la paloma volvió con una hoja verde de olivo en el pico. Noé comprendió que el agua había menguado sobre la tierra, ^12^ Esperó todavía otros siete días y soltó la paloma que ya no volvió.
+
+^13^ El año seiscientos uno, el día primero del més primero se secó el agua en la tierra. Noé abrió la claraboya del arca, miró y vió que la superficie del suelo estaba seca. ^14^ El día veintisiete del mes segundo la tierra estaba seca.
+
+^15^ Entonces dijo Dios a Noé: ^16^ «Sal del arca con tu mujer, tus hijos y tus nueras. ^17^ Haz salir también todos los animales que están contigo, todas las criaturas: aves ganados y reptiles; que se muevan por la tierra, sean fecundos y se multipliquen en ella». ^18^ Salió, pues, Noé con sus hijos, su mujer y sus nueras. ^19^ También salieron del arca, por familias, todos los animales, todos los ganados, todas las aves y todos los reptiles que se mueven sobre la tierra.
+
+^20^ Noé construyó un altar al Señor, tomó animales y aves de toda especie pura y los ofreció en holocausto sobre el altar. ^21^ El Señor olió el aroma que aplaca y se dijo: «No volveré a maldecir el suelo a causa del hombre, porque la tendencia del corazón humano es mala desde la juventud. No volveré a destruir a los vivientes como acabo de hacerlo.
+
+^22^ Mientras dure la tierra no han de faltar | siembra y cosecha, frío y calor, | verano e invierno, día y noche».
+
+#### *Alianza de Dios con Noé*
+
+<span class="chapter">9</span> ^1^ Dios bendijo a Noé y a sus hijos diciendoles: «Sed fecundos, multiplicaos y llenad la tierra. ^2^ Todos los animales de la tierra y todas las aves del cielo os temerán y os respetarán; todos los reptiles del suelo y todos los peces del mar están a vuestra disposición. ^3^ Todo lo que vive y se mueve os servirá de alimento: os lo entrego todo, lo mismo que los vegetales. ^4^ Pero no comaís carne con sangre, que es su vida.<br>
+^5^ Pediré cuentas de vuestra sangre, que es vuestra vida; se las pediré a cualquier animal. Y al hombre le pediré cuentas de la vida de su hermano.
+{.subhead}
+
+^6^ Quien derrame la sangre de un hombre, | por otro hombre será su sangre derramada; | porque a imagen de Dios hizo él al hombre.
+
+^7^ Vosotros sed fecundos y multiplicaos, moveos por la tierra y dominadla».
+
+^8^ Dios dijo a Noé y a sus hijos: ^9^ «Yo establezco mi alianza con vosotros y con vuestros descendientes, ^10^ con todos los animales que os acompañan, aves, ganados y fieras, con todos los que salieron del arca y ahora viven en la tierra. ^11^ Establezco, pues, mi alianza con vosotros: el diluvio no volverá a destruir criatura alguna ni habrá otro diluvio que devaste la tierra».
+
+^12^ Y Dios añadió: «Esta es la señal de la alianza que establezco con vosotros y con todo lo que vive con vosotros, para todas las generaciones: ^13^ pondré mi arco en el cielo, como señal de mi alianza con la tierra. ^14^ Cuando traiga nubes sobre la tierra, aparecerá en las nubes el arco ^15^ y recordaré mi alianza con vosotros y con todos los animales, y el diluvio no volverá a destruir a los vivientes. ^16^ Aparecerá el arco en las nubes, y al verlo recordaré la alianza perpetua entre Dios y todos los seres vivientes, todas las criaturas que existen sobre la tierra». ^17^ Aún dijo Dios a Noé: «Ésta es la señal de la alianza que establezco con toda criatura que existe en la tierra».
+
+#### *Maldición y bendición de Noé*
+
+^18^ Los hijos de Noé que salieron del arca fueron Sem, Cam y Jafet. Cam es el padre de Canaán. ^19^ Estos tres son los hijos de Noé que se propagaron por toda la tierra.
+
+^20^ Noé era agricultor y fue el primero en plantar una viña. ^21^ Bebió el vino, se emborrachó y quedó desnudo dentro de su tienda. ^22^ Cam, padre de Canaán, vio a su padre desnudo y salió a contárselo a sus dos hermanos. ^23^ Sem y Jafet tomaron el manto, se lo hecharon ambos sobre sus hombros y, caminando de espaldas, taparon la desnudez de su padre; como tenían el rostro vuelto, no vieron desnudo a su padre. ^24^ Cuando Noé se despertó de la borrachera y se enteró de lo que había hecho con él su hijo menor, ^25^ dijo:
+
+«Maldito sea Canaán. | Sea el último siervo de sus hermanos».
+
+^26^ Y añadió:
+
+«Bendito sea el Señor, Dios de Sem. | Sea Canaán su siervo. | ^27^ El Señor haga fecundo a Jafet, | y more en las tiendas de Sem | y sea Canaán su siervo».
+
+^28^ Noé vivió después del diluvio trecientos cincuenta años. ^29^ Noé vivió un total de novecientos cincuenta años.
+
+### Descendientes de los hijos de Noé
+
+#### *Tabla de los pueblos*
+
+<span class="chapter">10</span> ^1^ Estos son los descendientes de los hijos de Noé, Sem, Cam y Jafet, nacidos después del diluvio.
+{.subhead}
+
+^2^ Hijos de Jafet: Gomer, Magog, Madai, Yaván, Tubal, Mesec y Tirás. ^3^ Hijos de Gomer: Asquenat, Rifat y Togarma. ^4^ Hijos de Yaván: Elisa, Tarsis, Quitín y Dodanín. ^5^ De estos se ramificaron los pueblos de la costa por países, cada uno con su lengua con familias y naciones.
