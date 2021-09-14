@@ -28,7 +28,7 @@ El Dios del Génesis es, en primer lugar, el Dios creador. Pero también lo es d
 
 ^24^ Dijo Dios: «Produzca la tierra seres vivientes según sus especies: ganados, reptiles y fieras según sus especies». Y así fue. ^25^ E hizo Dios las fieras según sus especies, los ganados según sus especies y los reptiles según sus especies. Y vio Dios que era bueno.
 
-^26^ Dijo Dios: «Hagamos al hombre a nuestra imagen y semejanza; que dominie los peces del mar, las aves del cielo, los ganados y los reptiles de la tierra». ^27^ Y creó Dios al hombre a su imagen, a imagen de Dios lo creó, varón y mujer los creó.
+^26^ Dijo Dios: «Hagamos al hombre a nuestra imagen y semejanza; que domine los peces del mar, las aves del cielo, los ganados y los reptiles de la tierra». ^27^ Y creó Dios al hombre a su imagen, a imagen de Dios lo creó, varón y mujer los creó.
 
 ^28^ Dios los bendijo; y les dijo Dios: «Sed fecundos y multiplicaos, llenad la tierra y sometedla; dominad los peces del mar, las aves del cielo y todos los animales que se mueven sobre la tierra».
 
@@ -209,3 +209,10 @@ El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales
 {.subhead}
 
 ^2^ Hijos de Jafet: Gomer, Magog, Madai, Yaván, Tubal, Mesec y Tirás. ^3^ Hijos de Gomer: Asquenat, Rifat y Togarma. ^4^ Hijos de Yaván: Elisa, Tarsis, Quitín y Dodanín. ^5^ De estos se ramificaron los pueblos de la costa por países, cada uno con su lengua con familias y naciones.
+
+^6^ Hijos de Cam: Cus, Misráin, Put y Canaán. ^7^ Hijos de Cus: Seba, Javila, Sabta, Raama y Sabteca. Hijos de Raama: Seba y Dedán. ^8^ Cus engendró a Nimrod, el primer héroe de la tierra.
+^9^ Fue un heroico cazador ante el Señor. Por eso se dice: «Heroico cazador ante el Señor, como Nimrod». ^10^ Las capitales de su reino fueron Babel, Erec, Acad y Calne, en la tierra de Senaar. ^11^ De este país salió para Asur y construyó Nínive, Rejobotir, Calaj ^12^ y Resen, entre Nínive y Calaj: es la gran ciudad. ^13^ Misráin engendró a los lidios, anamitas, leabitas, naftujitas, ^14^ patrusitas, calusitas y caftoritas, de los que proceden los filisteos. ^15^ Canaán engedró a Sidón, su primogénito, y a Jet, ^16^ y a los jebuseos, amorreos, guirgaseos, ^17^ heveos, arquitas y sinitas, ^18^ arvaditas, samaritas y jamatitas. Después se dispersaron las familias cananeas. ^19^ La frontera de los cananeos se extendía desde Sidón, en dirección a Guerar, hasta Gaza; y en dirección a Sodoma, Gomorra, Admá y Seboín hasta Lesa. ^20^ Estos son los hijos de Cam, por familias y lenguas, por territorios y naciones.
+
+^21^ Sem, hemano mayor de Jafet y antepasado de todos los hijos de Eber, también engendró hijos. ^22^ Hijos de Sem: Elán, Asur, Arfacsad, Lud y Arán. ^23^ Hijos de Arán: Uz, Jul, Gueter y Mas. ^24^ Arfacsad engendró a Selaj y Seleja engendró a Eber. ^25^ Eber Engendró dos hijos: uno se llamó Pleg, porque en su tiempo se dividió la tierra, y su hermano se llamó Yoctán. ^26^ Yoctán engendró a Almodad, Selef, Jasarmavet, Yeraj, ^27^ Adorán, Uzal, Diclá, ^28^ Obal, Abimael, Seba, ^29^ Ofir, Javila y Yobab. Todos estos fueron hijos de Yoctán. ^30^ Su territorio se extendía desde Mesa hasta Sefar, la montaña oriental. ^31^ Esos son los descendientes de Sem, por familias, lenguas, territorios y naciones.
+
+^32^ Estas son las familias de los hijos de Noé, por genealogías y naciones. De ellas se ramificaron las naciones de la tierra después del diluvio.
