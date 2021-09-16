@@ -51,6 +51,7 @@ module.exports = {
             '',
             'genesis',
             'exodo',
+            'levitico',
           ]
         }
       ],
