@@ -271,6 +271,7 @@ Tales son los cabeza de familia de los levitas, según sus descendientes.
 #### *Cántico triunfal*
 
 <span class="chapter">15</span> ^1^ Entonces Moisés y los hijos de Israel entonaron este canto al Señor:
+{.subhead}
 
 «Cantaré al Señor, gloriosa es su victoria, | caballos y carros ha arrojado en el mar.
 
@@ -685,6 +686,7 @@ Un ladrón debe indemnizar: si no tiene nada, será vendido para pagar por lo qu
 ##### El becerro de oro
 
 <span class="chapter">32</span> ^1^ Viendo el pueblo que Moisés tardaba en bajar de la montaña, se reunió en torno a Aarón y le dijo: «Anda, haznos un dios que vaya delante de nosotros, pues a ese Moisés que nos sacó de Egipto no sabemos qué le ha pasado». ^2^ Aarón les contestó: «Quitadles los pendientes de oro a vuestras mujeres, hijos e hijas, y traédmelos». ^3^ Todo el pueblo se quitó los pendientes de oro y se los trajeron a Aarón. ^4^ Él los recibió, trabajó el oro a cincel y fabricó un becerro de fundición. Entonces ellos exclamaron: «Este es tu dios, Israel, el que te sacó de Egipto». ^5^ Cuando Aarón lo vio, edificó un altar en su presencia y proclamó: «Mañana es fiesta del Señor». ^6^ Al día siguiente se levantaron, ofrecieron holocaustos y presentaron sacrificios de comunión. El pueblo se sentó a comer y beber, y después se levantaron a danzar.
+{.subhead}
 
 ^7^ El Señor dijo a Moisés: «Anda, baja de la montaña, que se ha pervertido tu pueblo, el que tú sacaste de Egipto. ^8^ Pronto se han desviado del camino que yo les había señalado. Se han hecho un becerro de metal, se postran ante él, le ofrecen sacrificios y proclaman: “Este es tu Dios, Israel, el que te sacó de Egipto”». ^9^ Y el Señor añadió a Moisés: «Veo que este pueblo es un pueblo de dura cerviz. ^10^ Por eso, déjame: mi ira se va a encender contra ellos hasta consumirlos. Y de ti haré un gran pueblo».
 

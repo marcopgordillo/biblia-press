@@ -147,6 +147,7 @@ El día en que el Señor Dios hizo tierra y cielo, ^5^ no había aún matorrales
 ^22^ Noé hizo todo lo que le mandó Dios.
 
 <span class="chapter">7</span> ^1^ El Señor dijo a Noé: «Entra en el arca con toda tu familia, pues tú eres el único justo que he encontrado en tú generación. ^2^ De cada animal puro toma siete parejas, macho y hembra; de los no puros, una pareja, macho y hembra; ^3^ y lo mismo de los pájaros, siete parejas macho y hembra, para que conserven la especie en la tierra. ^4^ Dentro de siete días haré llover sobre la tierra durante cuarenta días con sus noches, y borraré de la superficie del suelo a todos los vivientes que he hecho».
+{.subhead}
 
 ^5^ Noé hizo todo lo que le mandó el Señor.
 
