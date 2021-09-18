@@ -53,6 +53,7 @@ module.exports = {
             'exodo',
             'levitico',
             'numeros',
+            'deuteronomio',
           ]
         }
       ],
